@@ -1,0 +1,9 @@
+## Sentiment and Text Analyses 
+
+### Installation
+
+- [nltk]
+- [Pandas]
+
+**Description**
+- This involved extracting several acticles from links (Blackoffer) and created a corpus with the articles. Then performed sentiment and text analyses. 
